@@ -14,3 +14,20 @@ Interactive Frontend Development Milestone Project
 
 * The main goal for the business is to direct the user to the contact section where they can pick a package and get in touch with a member of staff at Customize and organize creating a website togeather. 
 
+3. User stories
+
+
+* client stories
+
+    1. As a new visitor to the website I want to navigate the site with ease and no confusion.
+
+    2. As a new visitor to the website I want to be able to contact Customize.ie about a project and recieve an email of confirmatrion.
+
+    3. As a new visitor to the website I want to be able to view where customize.ie is based and see where there situated on the map.
+
+    4. As a new visitor to the website I want to be able to read about customize.ie in thier about section.
+    
+    5. As a user I want to easily be able to customize the website and use its interesting colour theme features with ease and no confusion.
+    
+    
+
