@@ -28,6 +28,18 @@ Interactive Frontend Development Milestone Project
     4. As a new visitor to the website I want to be able to read about customize.ie in thier about section.
     
     5. As a user I want to easily be able to customize the website and use its interesting colour theme features with ease and no confusion.
+
+4. Wireframe
+
+    * Computer size: https://github.com/robertc181/Customize.ie/blob/main/assets/wireframe/computer-size.jpg
+    
+    * Ipad size: https://github.com/robertc181/Customize.ie/blob/main/assets/wireframe/ipad-size-.jpg
+     
+    * Ipad size: https://github.com/robertc181/Customize.ie/blob/main/assets/wireframe/ipad-size-2.jpg
+      
+    * Phone size: https://github.com/robertc181/Customize.ie/blob/main/assets/wireframe/phone-size.jpg
+       
+    * Phone size:  https://github.com/robertc181/Customize.ie/blob/main/assets/wireframe/phone-size-2.jpg
     
     
 
