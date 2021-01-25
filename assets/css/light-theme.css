@@ -2,21 +2,22 @@
 
 /* ---------------------------------------general */
 
+*,*:focus,*:hover{
+    outline:none !important;
+}
+
 /* ---------------------------------------general nav*/
 
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: rgb(238, 238, 238);
+    background-color: rgb(255, 255, 255);
 } 
 
 .navbar a{
-    color: #03DAC6;
+    color: #2c2c2c;
 } 
 
-#navbarText{
-    color: black;
-}
 
 .navbar-brand{
     font-family: Expletus Sans;
@@ -52,14 +53,14 @@
 }
 
 .button1 {
-    background-color: transparent;
+    background-color:  #03DAC6;
     border: 2px solid #03DAC6;
-    color:#03DAC6;
+    color:white;
     letter-spacing: 3px;
 }
 
 .button1:hover {
-    background-color: #03DAC6;
+    background-color:transparent;
     border: 2px solid #03DAC6;
     color: #03DAC6;
     letter-spacing: 3px;
