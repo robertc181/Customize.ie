@@ -2,14 +2,16 @@
 
 /* ---------------------------------------general */
 
+/* ---------------------------------------general nav*/
+
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: rgb(46, 46, 46);
+    background-color: #6200EE;
 } 
 
 .navbar a{
-    color: white;
+    color: rgb(255, 255, 255);
 } 
 
 .navbar-brand{
@@ -33,9 +35,46 @@
 /* ---------------------------------------buttons */
 
 
+.button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+    font-weight: 500;
+    letter-spacing: 2px;
+    border: solid 2px rgb(44, 44, 44);
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(56, 56, 56);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button1 {
+    background-color: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    color:  #6200EE;
+    letter-spacing: 3px;
+}
+
+.button1:hover {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    color:  #6200EE;
+    letter-spacing: 3px;
+}
+
+
+
+
 
 @media (min-width: 200px) {
     /* ---------------------------------------nav sm */
+
+    .togglebtnright{
+        display: none;
+    }
 
     
 
@@ -67,6 +106,10 @@
 @media (min-width: 580px) {
 
     /* ---------------------------------------nav md */
+
+    .togglebtnright{
+        display: block;
+    }
 
     
 

@@ -2,19 +2,26 @@
 
 /* ---------------------------------------general */
 
+/* ---------------------------------------general nav*/
+
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: pink;
+    background-color: rgb(238, 238, 238);
 } 
 
 .navbar a{
-    color: white;
+    color: #03DAC6;
 } 
+
+#navbarText{
+    color: black;
+}
 
 .navbar-brand{
     font-family: Expletus Sans;
     font-size: 200%;
+    color: rgb(41, 41, 41);
 }
 
 .navbar-toggler{
@@ -32,12 +39,42 @@
 
 /* ---------------------------------------buttons */
 
+.button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    vertical-align: middle;
+    font-weight: 500;
+    letter-spacing: 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: transparent;
+    border: 2px solid #03DAC6;
+    color:#03DAC6;
+    letter-spacing: 3px;
+}
+
+.button1:hover {
+    background-color: #03DAC6;
+    border: 2px solid #03DAC6;
+    color: #03DAC6;
+    letter-spacing: 3px;
+}
+
+
+
 
 
 @media (min-width: 200px) {
     /* ---------------------------------------nav sm */
 
-    
+    .togglebtnright{
+        display: none;
+    }
 
     /* ---------------------------------------header sm */
 
@@ -67,6 +104,10 @@
 @media (min-width: 580px) {
 
     /* ---------------------------------------nav md */
+
+    .togglebtnright{
+        display: block;
+    }
 
     
 
