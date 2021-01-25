@@ -1,6 +1,32 @@
-
+ @import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@700&display=swap'); 
 
 /* ---------------------------------------general */
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: pink;
+} 
+
+.navbar a{
+    color: white;
+} 
+
+.navbar-brand{
+    font-family: Expletus Sans;
+    font-size: 200%;
+}
+
+.navbar-toggler{
+    background-color: grey;
+    border: grey 2px solid;
+}
+
+.toggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 
