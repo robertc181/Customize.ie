@@ -42,6 +42,12 @@ p{
     justify-content: center;
 }
 
+.navbar-collapse{
+    font-size: 110%;
+    font-family:Montserrat ;
+    padding-top: 2px;
+}
+
 
 
 /* ---------------------------------------buttons */
@@ -117,7 +123,7 @@ p{
 
     .jumbotron-header{
         font-family: Expletus Sans;
-        font-size: 350%;
+        font-size: 400%;
     }
 
     

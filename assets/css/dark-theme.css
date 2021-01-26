@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Expletus+Sans:wght@700&display=swap'); 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
 
 /* ---------------------------------------general */
 
@@ -55,7 +55,16 @@ p{
     justify-content: center;
 }
 
+.navbar-collapse{
+    font-size: 110%;
+    font-family:Montserrat ;
+    padding-top: 2px;
+    color: white;
+}
 
+.nav-item{
+    color: red;
+}
 
 /* ---------------------------------------buttons */
 
@@ -74,16 +83,16 @@ p{
 
 
 .button1 {
-    background-color: #6200ee;
-    border: 2px solid #6200EE;
-    color:    #161616;
+    background-color: #5c5ddc;
+    border: 2px solid #5c5ddc;
+    color:    rgb(17, 17, 17);
     letter-spacing: 3px;
 }
 
 .button1:hover {
     background-color: transparent;
-    border: 2px solid #6200EE;
-    color:   #6200EE;
+    border: 2px solid #5c5ddc;
+    color:   #5c5ddc;
     letter-spacing: 3px;
 }
 
@@ -91,7 +100,7 @@ p{
 /* ---------------------------------------colours */
 
 .dark{
-    color:  #bb86FC;
+    color:  #5c5ddc;
 }
 
 
@@ -135,7 +144,7 @@ p{
 
     .jumbotron-header{
         font-family: Expletus Sans;
-        font-size: 350%;
+        font-size: 400%;
         color: white;
     }
 
