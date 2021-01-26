@@ -3,19 +3,28 @@
 /* ---------------------------------------general */
 
 body{
-    background-color: #161616;
+    background-color: #0c0b10;
 }
 
 *,*:focus,*:hover{
     outline:none !important;
 }
 
+.opaque-overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    
+}
+
 /* ---------------------------------------general nav*/
 
 .navbar {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: #272727;
+    height: 100px;
+    background-color: #27272700;
+    z-index: 3;
 } 
 
 .navbar a{
@@ -84,6 +93,24 @@ body{
     
 
     /* ---------------------------------------header sm */
+
+    .callout-container {
+        height: 100vh;
+
+        background: url("C:/code institute/Customize.ie/Customize.ie/assets/img/VECTEEZY_BLACK_BACKGROUND_PS1120.jpg") no-repeat top center;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        position: relative;
+        top: -100px;
+        z-index: 1;
+    }
 
     
 
