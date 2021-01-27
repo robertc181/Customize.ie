@@ -65,16 +65,16 @@ p{
 }
 
 .button1 {
-    background-color:  #6200EE;
-    border: 2px solid #6200EE;
-    color:white;
+    /* background-color:  #6200EE; */
+    border: 2px solid ;
+    /* color:white; */
     letter-spacing: 3px;
 }
 
 .button1:hover {
     background-color:transparent;
-    border: 2px solid #6200EE;
-    color: #6200EE;
+     border: 2px solid;
+    /* color: #6200EE;  */
     letter-spacing: 3px;
 }
 
@@ -84,6 +84,19 @@ p{
 
 .light{
     color: #6200EE;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
 }
 
 
