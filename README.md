@@ -1,14 +1,15 @@
-# Customize.ie
+# Customise.ie
 
 Interactive Frontend Development Milestone Project 
 
-* Customize.ie is a website made for customers who are looking for a new website for thier business. It also provides a contact form so that the customer can get in touch with the Customize team to create a project, and has a map to show the customer where customize is situated around the globe. The website has a theme of bieng customizable which accentuates thier custom website look to show customers that thier website will be like no other and tailored to thier specifications.
+* Customise.ie is a website made for customers who are looking for a new website for thier business. It also provides a contact form so that the customer can get in touch with the Customise team to create a project, and has a map to show the customer where customise is situated around the globe. The website has a theme of bieng customisable which accentuates thier custom website look to show customers that thier website will be like no other and tailored to thier specifications.
 
 ## UX
 
 1. Project Goals
 
-* The main goal for Customize.ie is to provide the user with a customizable website that shows off what customize are capable of doing while also allowing the user to contact the Customize team and also with the google map api the user can see where the companys many hubs are based.
+* The main goal for Customise.ie is to provide the user with a customisable website that shows off what customize are capable of doing while also allowing the user to contact the Customise team and also with the google map api the user can see where the companys many hubs are based.also the website will be customisable with a dark and light mode feature and a side nav which can change the colour theme of many of the buttons and features throughout the website, it will also consisit of small customisable parts where the shape and text font can be changed . most important these changes will be saved to the local storage so next time the custom set is remembered 
+
 
 2. Goals of Business
 
